@@ -1,4 +1,6 @@
+REM Author: jkska23
 REM mkdir 69
+REM Target: windows users
 
 GUI r
 DELAY 500
