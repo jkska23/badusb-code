@@ -7,6 +7,8 @@ ENTER
 DELAY 500
 STRING cd Desktop
 ENTER
+STRING cd OneDrive/Desktop
+ENTER
 STRING mkdir porn
 ENTER
 STRING mkdir porn1
