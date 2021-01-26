@@ -1,0 +1,149 @@
+REM mkdir 69
+
+GUI r
+DELAY 500
+STRING cmd
+ENTER
+DELAY 500
+STRING cd Desktop
+ENTER
+STRING mkdir porn
+ENTER
+STRING mkdir porn1
+ENTER
+STRING mkdir porn2
+ENTER
+STRING mkdir porn3
+ENTER
+STRING mkdir porn4
+ENTER
+STRING mkdir porn5
+ENTER
+STRING mkdir porn6
+ENTER
+STRING mkdir porn7
+ENTER
+STRING mkdir porn8
+ENTER
+STRING mkdir porn9
+ENTER
+STRING mkdir porn10
+ENTER
+STRING mkdir porn11
+ENTER
+STRING mkdir porn12
+ENTER
+STRING mkdir porn13
+ENTER
+STRING mkdir porn14
+ENTER
+STRING mkdir porn15
+ENTER
+STRING mkdir porn16
+ENTER
+STRING mkdir porn17
+ENTER
+STRING mkdir porn18
+ENTER
+STRING mkdir porn19
+ENTER
+STRING mkdir porn20
+ENTER
+STRING mkdir porn21
+ENTER
+STRING mkdir porn22
+ENTER
+STRING mkdir porn23
+ENTER
+STRING mkdir porn24
+ENTER
+STRING mkdir porn25
+ENTER
+STRING mkdir porn26
+ENTER
+STRING mkdir porn27
+ENTER
+STRING mkdir porn28
+ENTER
+STRING mkdir porn29
+ENTER
+STRING mkdir porn30
+ENTER
+STRING mkdir porn31
+ENTER
+STRING mkdir porn32
+ENTER
+STRING mkdir porn33
+ENTER
+STRING mkdir porn34
+ENTER
+STRING mkdir porn35
+ENTER
+STRING mkdir porn36
+ENTER
+STRING mkdir porn37
+ENTER
+STRING mkdir porn38
+ENTER
+STRING mkdir porn39
+ENTER
+STRING mkdir porn40
+ENTER
+STRING mkdir porn41
+ENTER
+STRING mkdir porn42
+ENTER
+STRING mkdir porn43
+ENTER
+STRING mkdir porn44
+ENTER
+STRING mkdir porn45
+ENTER
+STRING mkdir porn46
+ENTER
+STRING mkdir porn47
+ENTER
+STRING mkdir porn48
+ENTER
+STRING mkdir porn49
+ENTER
+STRING mkdir porn50
+ENTER
+STRING mkdir porn51
+ENTER
+STRING mkdir porn52
+ENTER
+STRING mkdir porn53
+ENTER
+STRING mkdir porn54
+ENTER
+STRING mkdir porn55
+ENTER
+STRING mkdir porn56
+ENTER
+STRING mkdir porn57
+ENTER
+STRING mkdir porn58
+ENTER
+STRING mkdir porn59
+ENTER
+STRING mkdir porn60
+ENTER
+STRING mkdir porn61
+ENTER
+STRING mkdir porn62
+ENTER
+STRING mkdir porn63
+ENTER
+STRING mkdir porn64
+ENTER
+STRING mkdir porn65
+ENTER
+STRING mkdir porn66
+ENTER
+STRING mkdir porn67
+ENTER
+STRING mkdir porn68
+ENTER
+STRING mkdir porn69
+ENTER
